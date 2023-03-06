@@ -20,6 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veekamunya&" alt="veekamunya" /></p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **veekamunya/veekamunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
